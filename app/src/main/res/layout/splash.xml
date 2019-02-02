@@ -20,16 +20,16 @@
         <RelativeLayout
             android:id="@+id/rlCahtegal"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:gravity="center"
             android:paddingBottom="50dp">
 
             <ImageView
                 android:id="@+id/img"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
                 android:layout_centerInParent="true"
-                android:src="@drawable/logo_next" />
+                android:src="@drawable/logo_win_dev" />
         </RelativeLayout>
 
     </RelativeLayout>

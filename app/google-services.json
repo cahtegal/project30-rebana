@@ -1,27 +1,58 @@
 {
   "project_info": {
-    "project_number": "602626914161",
-    "firebase_url": "https://darbuka-4d645.firebaseio.com",
-    "project_id": "darbuka-4d645",
-    "storage_bucket": "darbuka-4d645.appspot.com"
+    "project_number": "443319083590",
+    "firebase_url": "https://darbuka-10e15.firebaseio.com",
+    "project_id": "darbuka-10e15",
+    "storage_bucket": "darbuka-10e15.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:602626914161:android:4849e4a7554555d0",
+        "mobilesdk_app_id": "1:443319083590:android:21ac298ef1976998",
         "android_client_info": {
-          "package_name": "com.nextwin.rebana"
+          "package_name": "com.hidevs.realdarbuka"
         }
       },
       "oauth_client": [
         {
-          "client_id": "602626914161-pqci2r9lte4a7b7noapu85gfrdu43hft.apps.googleusercontent.com",
+          "client_id": "443319083590-pstkdbss37ok6pmhhufh7ll6f2pp89hf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCo396IC7NBIPn_733p8ZecjBvFDtTIAmw"
+          "current_key": "AIzaSyDrpXaCRiJN3MPTfRJZze0sRSigmtHfQro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443319083590:android:c5beea30eacdcf8e",
+        "android_client_info": {
+          "package_name": "com.hidevs.realrebana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443319083590-pstkdbss37ok6pmhhufh7ll6f2pp89hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpXaCRiJN3MPTfRJZze0sRSigmtHfQro"
         }
       ],
       "services": {
